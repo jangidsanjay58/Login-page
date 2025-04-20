@@ -10,7 +10,7 @@ This is a modern and responsive login page built using **HTML**, **CSS**, and **
 - Google login button with icon
 - “Remember me” checkbox & “Forgot password” link
 - Styled input placeholders & labels
-- Clean form validation-ready layout
+- Clean form validation-ready layout .
 
 ---
 
